@@ -11,14 +11,14 @@ else:
         long_description = fh.read()
 
 setup(
-    name='squareup',
-    version='6.3.0.20200826',
-    description='Use Square APIs to manage and run business including payment, customer, product, inventory, and employee management.',
+    name='fangkuai',
+    version='0.0.1',
+    description='',
     long_description=long_description,
     long_description_content_type="text/markdown",
-    author='Square Developer Platform',
-    author_email='developers@squareup.com',
-    url='https://squareup.com/developers',
+    author='okenshields',
+    author_email='okenshields@example.com',
+    url='',
     packages=find_packages(),
     install_requires=[
         'requests>=2.9.1, <3.0',
